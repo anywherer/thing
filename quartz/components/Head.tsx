@@ -53,6 +53,7 @@ export default (() => {
         )}
         
         <link rel="me" href="https://mastodon.social/@somewherer" />
+        <meta name="fediverse:creator" content="@somewherer@mastodon.social" />
         
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

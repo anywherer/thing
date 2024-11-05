@@ -10,7 +10,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "somewherer.com",
-    ignorePatterns: ["assets/*.md", "temp", "private", "plugins", ".obsidian"],
+    ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       // fontOrigin: "googleFonts",

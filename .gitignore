@@ -1,3 +1,14 @@
 **/.DS_Store
 **/temp
 **/private
+
+content/.obsidian/workspace.json
+content/.obsidian/stats.json
+
+public
+
+node_modules
+
+prof
+tsconfig.tsbuildinfo
+.quartz-cache

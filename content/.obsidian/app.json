@@ -10,5 +10,6 @@
   "showRibbon": false,
   "showInlineTitle": true,
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }

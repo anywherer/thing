@@ -10,7 +10,9 @@ export const sharedPageComponents: SharedLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Darkmode(),
     Component.Search(),
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
+  Component.MobileOnly(Component.TableOfContents()),
   afterBody: [
     Component.RecentNotes({
       title: "also thinking about",
@@ -63,7 +65,6 @@ export const defaultContentPageLayout: PageLayout = {
         showTags: true,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 

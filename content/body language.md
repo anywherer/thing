@@ -4,9 +4,11 @@ description:
 aliases: 
 tags: 
 created: 2024-11-25T20:00:02
-modified: 2024-11-25T20:29:44
+modified: 2024-12-14T15:34:23
 permalink: 
 ---
+
+Abstract: How your body language expresses yourself is important. You may be surprised to know that by changing your body language, you are changing how you and other people perceive yourself. This ultimately changes you - so if you want to be a rock star, start by acting like one, not kidding.
 
 What if, your body language changes who you are?
 
@@ -18,4 +20,4 @@ We knew that you control your body langauge, but it's also true the other way ar
 
 Fake it until you make it? I suppose intuitively it does have a lot of positive effects.
 
-[^1]: https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are?subtitle=en
+[^1]: https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are + Amy Cuddy: Your body language may shape who you are | TED Talk + (NOTE: Some of the findings presented in this talk have been referenced in an ongoing debate among social scientists about robustness and reproducibility. Read "Corrections & Updates" below for more details as well as Amy Cuddy's response.) Body language affects how others see us, but it may also change how we see ourselves. Social psychologist Amy Cuddy argues that "power posing" -- standing in a posture of confidence, even when we don't feel confident -- can boost feelings of confidence, and might have an impact on our chances for success.

@@ -5,7 +5,7 @@ aliases:
 tags:
   - thoughts
 created: 2024-11-07T18:48:40
-modified: 2024-11-10T15:24:38
+modified: 2024-12-14T14:45:20
 permalink: 
 ---
 
@@ -37,15 +37,16 @@ You don't need to
 
 Ok well, that's not the only problem.
 
-look, what i'm trying to say here is that 
+Look, what i'm trying to say here is that 
 
 ![[language processing 2024-11-08T21.03.02.excalidraw.svg|500]]
 %%[[language processing 2024-11-08T21.03.02.excalidraw.md|🖋 Edit in Excalidraw]]%%
 
-this is what i find in myself - voices that 
-it's not that annoying. they are helpful. they are my thoughts, so to speak.
-but they are so loud.
-much like myself, they cannot keep their thoughts to themselves, can they?
+This is what I find in myself - voices that keep commenting on everything. It's not good.
+
+But it's not that they are annoying. They are helpful. They are my thoughts, so to speak, but they are so loud.
+
+Much like myself, they cannot keep their thoughts to themselves, can they?
 
 
 so i figured to myself, 

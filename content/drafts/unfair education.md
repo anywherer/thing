@@ -4,7 +4,7 @@ description:
 aliases: 
 tags: 
 created: 2024-11-18T19:35:25
-modified: 2024-11-18T19:46:14
+modified: 2024-12-09T18:53:54
 permalink: 
 ---
 
@@ -13,3 +13,4 @@ permalink:
 
 
 https://www.ted.com/talks/luis_von_ahn_how_to_make_learning_as_addictive_as_social_media/transcript?subtitle=en
+s

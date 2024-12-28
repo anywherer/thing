@@ -4,11 +4,11 @@ description:
 aliases: 
 tags: 
 created: 2024-12-14T14:03:50
-modified: 2024-12-14T14:38:33
+modified: 2024-12-28T20:14:48
 permalink: 
 ---
 
-Abstract: Deja vu is a common phenomenon where you recognize something but have no idea why. The best explanations for deja vu are the following. Maybe your brain has recognized a pattern that you had seen in another context, but you don't remember what the context was. Maybe you were in an unconscious state of daydreaming, and when you regain your consciousness you become surprised at how familiar the environment is.
+Deja vu is a common phenomenon where you recognize something but have no idea why. The best explanations for deja vu are the following. Maybe your brain has recognized a pattern that you had seen in another context, but you don't remember what the context was. Maybe you were in an unconscious state of daydreaming, and when you regain your consciousness you become surprised at how familiar the environment is.
 
 The experience of deja vu is very well known.
 

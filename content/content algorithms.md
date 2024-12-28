@@ -4,11 +4,11 @@ description:
 aliases: 
 tags: 
 created: 2024-12-08T20:07:59
-modified: 2024-12-14T14:43:59
+modified: 2024-12-28T20:24:34
 permalink: 
 ---
 
-Abstract: The content we see is controlled. The distribution of information in this era is really painful, as companies stop at nothing to seek money and engagement. In a perfect world, content should be distributed in a manner that is beneficial to as many people as possible... But that is a topic for another day.
+The content we see is controlled. The distribution of information in this era is really painful, as companies stop at nothing to seek money and engagement. In a perfect world, content should be distributed in a manner that is beneficial to as many people as possible... But that is a topic for another day.
 
 
 Google and Facebook, among with many others, are known for controlling all the content that you see. This made them much criticized.

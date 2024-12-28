@@ -5,11 +5,11 @@ aliases:
 tags:
   - thoughts
 created: 2024-11-07T18:48:40
-modified: 2024-12-14T14:45:20
+modified: 2024-12-28T20:24:49
 permalink: 
 ---
 
-Abstract - Your brain always processes language for your senses and feelings. Sometimes you have thoughts that appear as voices speaking to you, and they are noisy enough to distract you from the peace you wanted.
+Your brain always processes language for your senses and feelings. Sometimes you have thoughts that appear as voices speaking to you, and they are noisy enough to distract you from the peace you wanted.
 
 Once of those continuously happening programs that run in your brain is your language processing thing.
 
@@ -47,11 +47,3 @@ This is what I find in myself - voices that keep commenting on everything. It's 
 But it's not that they are annoying. They are helpful. They are my thoughts, so to speak, but they are so loud.
 
 Much like myself, they cannot keep their thoughts to themselves, can they?
-
-
-so i figured to myself, 
-
-
-maybe have a little think about it?
-
-the world does not need to be defined by language, you know.

@@ -4,11 +4,11 @@ description:
 aliases: 
 tags: 
 created: 2024-11-25T20:00:02
-modified: 2024-12-14T15:34:23
+modified: 2024-12-28T20:11:57
 permalink: 
 ---
 
-Abstract: How your body language expresses yourself is important. You may be surprised to know that by changing your body language, you are changing how you and other people perceive yourself. This ultimately changes you - so if you want to be a rock star, start by acting like one, not kidding.
+How your body language expresses yourself is important. You may be surprised to know that by changing your body language, you are changing how you and other people perceive yourself. This ultimately changes you - so if you want to be a rock star, start by acting like one, not kidding.
 
 What if, your body language changes who you are?
 

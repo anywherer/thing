@@ -3,9 +3,9 @@ title:
 description: 
 aliases: 
 tags:
-  - project
+  - all
 created: 2024-11-07T19:54:50
-modified: 2024-12-28T20:14:31
+modified: 2024-12-28T20:54:13
 permalink: 
 ---
 

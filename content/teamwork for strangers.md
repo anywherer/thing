@@ -2,9 +2,11 @@
 title: 
 description: 
 aliases: 
-tags: 
+tags:
+  - all
+  - social
 created: 2024-12-25T18:33:55
-modified: 2024-12-25T19:43:00
+modified: 2024-12-28T20:55:09
 permalink: 
 ---
 

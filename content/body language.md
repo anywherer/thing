@@ -2,9 +2,10 @@
 title: 
 description: 
 aliases: 
-tags: 
+tags:
+  - all
 created: 2024-11-25T20:00:02
-modified: 2024-12-28T20:11:57
+modified: 2024-12-28T20:53:08
 permalink: 
 ---
 

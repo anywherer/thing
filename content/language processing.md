@@ -3,9 +3,9 @@ title:
 description: 
 aliases: 
 tags:
-  - thoughts
+  - all
 created: 2024-11-07T18:48:40
-modified: 2024-12-28T20:24:49
+modified: 2024-12-28T20:53:59
 permalink: 
 ---
 

@@ -12,8 +12,8 @@ export const sharedPageComponents: SharedLayout = {
     Component.Search(),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
-  Component.MobileOnly(Component.TableOfContents()),
   afterBody: [
+    Component.MobileOnly(Component.TableOfContents()),
     Component.RecentNotes({
       title: "also thinking about",
       limit: 5,

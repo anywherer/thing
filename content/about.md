@@ -4,14 +4,14 @@ description:
 aliases: 
 tags: []
 created: 2024-11-03T16:00:00
-modified: 2024-12-28T20:20:38
+modified: 2025-02-09T19:53:10
+published: 
 permalink: 
 ---
 
-I love websites!
-I hope you enjoyed reading some things I wrote.
+Helping people is my favorite thing!
 
-Helping people is my favorite thing! Say hi and [[contact]] me.
+Say hi and [[contact]] me?
 
-Also, here's a special gift for people who use RSS.
+Here's a special gift for people who use RSS.
 https://somewherer.com/index.xml

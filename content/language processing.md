@@ -5,7 +5,8 @@ aliases:
 tags:
   - all
 created: 2024-11-07T18:48:40
-modified: 2024-12-28T20:53:59
+modified: 2025-02-09T19:57:17
+published: 
 permalink: 
 ---
 
@@ -32,18 +33,13 @@ Of course, it's just a rough example.
 
 But don't you realize, seeing things as.what they really are is important!
 
-You don't need to 
+You don't need to always comment on things using language, do you? But everything in our thoughts revolve around language.
 
 
-Ok well, that's not the only problem.
 
-Look, what i'm trying to say here is that 
+My thoughts need voices to keep commenting on everything. It's not good.
 
-![[language processing 2024-11-08T21.03.02.excalidraw.svg|500]]
-%%[[language processing 2024-11-08T21.03.02.excalidraw.md|🖋 Edit in Excalidraw]]%%
+But it's not that they are annoying. They are helpful. But they are loud and slow.
 
-This is what I find in myself - voices that keep commenting on everything. It's not good.
 
-But it's not that they are annoying. They are helpful. They are my thoughts, so to speak, but they are so loud.
-
-Much like myself, they cannot keep their thoughts to themselves, can they?
+Much like myself, the voices in my head cannot keep their thoughts to themselves, can they?

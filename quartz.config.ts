@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "somewherer.com",
     ignorePatterns: ["assets/*.md", "drafts", "temp", "private", "plugins", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "published",
     theme: {
       // fontOrigin: "googleFonts",
       cdnCaching: true,

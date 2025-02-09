@@ -7,7 +7,6 @@
   "attachmentFolderPath": "./assets",
   "showUnsupportedFiles": true,
   "newFileLocation": "current",
-  "showRibbon": false,
   "showInlineTitle": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,

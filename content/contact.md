@@ -2,17 +2,17 @@
 title: 
 description: 
 aliases: 
-tags: []
+tags: 
 created: 2024-12-14T14:46:40
-modified: 2025-02-09T19:50:51
-published: 
+modified: 2025-02-10T13:09:42
+published: 2025-02-10
 permalink: 
 ---
 
 
-Say hi - don't be shy.
+Say hi and don't be shy.
 
-I love having interesting conversations with you!
+I love conversations!
 
 ### email
 

@@ -4,19 +4,18 @@ description:
 aliases: 
 tags: 
 created: 2024-12-14T14:46:40
-modified: 2025-02-10T13:09:42
+modified: 2025-02-23T19:12:49
+publish: true
 published: 2025-02-10
 permalink: 
 ---
 
 
-Say hi and don't be shy.
-
-I love conversations!
+I love conversations. Say hi and don't be shy!
 
 ### email
 
-Pen pal letters, please!
+Penpal letters, please!
 
 ```
 comfy.snows0n@icloud.com

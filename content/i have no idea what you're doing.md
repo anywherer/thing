@@ -5,7 +5,8 @@ aliases:
 tags:
   - all
 created: 2025-02-23T18:46:47
-modified: 2025-02-23T18:48:58
+modified: 2025-02-23T19:12:09
+publish: true
 published: 2025-02-23
 permalink: 
 ---

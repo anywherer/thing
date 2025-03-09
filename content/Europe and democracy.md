@@ -4,10 +4,17 @@ description:
 aliases: 
 tags: 
 created: 2024-12-08T19:26:42
+<<<<<<< HEAD
 modified: 2025-03-08T17:55:31
 published: 
 permalink: 
 publish: 
+=======
+modified: 2025-02-23T19:11:06
+publish: 
+published: 
+permalink: 
+>>>>>>> origin/main
 ---
 
 

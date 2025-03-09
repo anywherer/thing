@@ -4,16 +4,19 @@ description:
 aliases: 
 tags: 
 created: 2024-08-13T17:03:00
-modified: 2025-02-09T19:55:12
-published: 
+modified: 2025-02-23T19:12:05
+publish: true
+published: 2025-02-23
 permalink: here
 ---
 
-Have a look at the [articles here](/tags)?
+Here is a place for writings big and small.
 
-~
+You can press `/` to search for something. You can find everything in [tags](/tags).
 
-here is a little place
-somewhere small and wonderful
-a place lonely and cute
-in a world big and complicated
+> here is a little place
+> somewhere small and wonderful
+> a place lonely and cute
+> in a world big and complicated
+
+~ We have RSS link `https://somewherer.com/index.xml`

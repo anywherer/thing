@@ -5,7 +5,7 @@ aliases:
 tags:
   - all
 created: 2024-11-07T19:54:50
-modified: 2025-02-09T19:50:50
+modified: 2025-02-09T20:02:27
 published: 
 permalink: 
 ---
@@ -27,5 +27,4 @@ And then I know people who study the body's functions. They find the body to be 
 But I wanted to know. 
 Perhaps, a manual can help you understand yours.
 
-*Manual for the human body*
-A book on your body. Work in progress.
+*Manual for the human body* - A book on your body. Work in progress.

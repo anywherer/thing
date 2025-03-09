@@ -1,4 +1,5 @@
 export const quotes = [
+`If you truly want ossomething, the world itself gives you a way.`,
 `Sometimes I think the fates must grin as we denounce them and insist,
 The only reason we can’t win is the fates themselves have missed.
 Yet, there lives on the ancient claim – we win or lose within ourselves,

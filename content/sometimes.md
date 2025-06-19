@@ -4,20 +4,20 @@ description:
 aliases: 
 tags: 
 created: 2024-11-07T19:08:01
-modified: 2025-03-09T18:20:30
-publish: 
+modified: 2025-06-19T19:27:51
+publish: true
 published: 
 permalink: 
 ---
 
-sometimes we need a way to let our thoughts out.
-in a relaxed sort of way, in a way so that you don't sound too harsh and direct
+Sometimes is a word of possibility.
 
-sometimes we need just the right context for writing things.
-putting your pen on your paper, and trying so hard to think about what sounds good to write
+Sometimes we need a way to let our thoughts out. In a relaxed sort of way, in a way so that you don't sound too harsh and direct.
 
-sometimes, all it takes is a little motivation, a reassurance that your thoughts are free, and you don't have to be afraid to think, to inspire, to create.
+We can use this word to help with writer's block. Putting your pen on your paper, and trying so hard to make something good. It doesn't have to be, it just has to be good sometimes.
 
-perhaps, just one word can encourage you to be brave...
+Sometimes, all it takes is a little motivation, a reassurance that your thoughts are free, and you don't have to be afraid to think, to inspire, to create.
 
-sometimes.
+Sometimes it never hurts to try, and it is easy to be brave.
+
+The world is good, sometimes.

@@ -5,9 +5,9 @@ aliases:
 tags:
   - all
 created: 2024-11-25T20:00:02
-modified: 2025-03-09T18:20:30
-publish: 
-published: 2024-11-25
+modified: 2025-06-19T18:48:17
+publish: true
+published: 2025-06-19
 permalink: 
 ---
 

@@ -4,41 +4,37 @@ description:
 aliases: 
 tags: 
 created: 2024-12-24T13:45:21
-modified: 2025-02-23T19:11:06
-publish: 
-published: 
+modified: 2025-06-19T19:13:39
+publish: true
+published: 2025-06-18
 permalink: 
 ---
 
-
 > What is love? Baby don't hurt me...
 
+Seriously, what is love? Neurology?
+
+Despite centuries of obsession, it still overwhelms us to this day.
+
+The word love simply tries to represent too many ideas. I honestly think it would be good if the word simply disappeared and we can stop using such a broad word.
+
+It's what you feel towards someone or something that makes you happy.
 
 
-Seriously, what is love? A verb? Noun? Neurology?
 
-it's everything. it's all you need. it's all there is!
-
-You have to admit, 
-
-despite centuries of obsession, it still overwhelms us to this day.
-
-it's a mystery, a magical emotion, 
-
-
-if love is a thing we can define, how can it mean so many contradictory ideas?
-
-
-love might be a construct, contructed from our experiences and feelings and culture.
+if love is a thing we can define, how can it mean so many contradictory things? 
 
 
 
 
 
-The theories of love try to explain how love operates. You can think of these theories as models.
 
-Robert Sternberg had 26 theories. Each of these represents one aspect of 
-[link](http://www.robertjsternberg.com/love)
+
+
+Robert Sternberg had [26 things about love](http://www.robertjsternberg.com/love). Each represent something that we associate with this one word. For example, love is often said to be an addiction, something that you want despite being harmful.
+
+I have to mention though, "the courage to be happy" says that love is a promise that represents courage. Love is a feeling where you really respect someone. The notes I took on the book are misplaced though, I think I did notes on paper. I wish it wasn't like this.
+
 
 > 1.  _Addiction_.  Strong anxious attachment; clinging behavior; anxiety at thought of losing partner.
 > 

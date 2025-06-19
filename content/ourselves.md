@@ -5,10 +5,10 @@ aliases:
 tags:
   - all
 created: 2025-02-23T18:11:32
-modified: 2025-03-08T17:55:31
+modified: 2025-03-09T18:20:30
+publish: true
 published: 2025-02-23
 permalink: 
-publish: true
 ---
 
 > sometimes I speak to my own soul

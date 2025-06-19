@@ -4,10 +4,10 @@ description:
 aliases: 
 tags: 
 created: 2024-11-17T14:15:07
-modified: 2025-03-08T17:56:01
+modified: 2025-03-09T18:20:30
+publish: 
 published: 
 permalink: 
-publish: 
 ---
 
 love is the realization that everything else other than yourself are yourself as well.
